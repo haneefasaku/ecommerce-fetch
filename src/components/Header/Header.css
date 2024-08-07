@@ -1,0 +1,23 @@
+
+.header{
+    background-color: #151a1f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+}
+.header h1{
+    color: #fff;
+    margin: 0;
+}
+.link{
+    text-decoration: none;
+}
+.logout{
+    padding: 10px 20px;
+    background-color: #ff5722;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    margin-right: 10px;
+}
